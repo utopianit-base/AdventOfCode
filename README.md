@@ -9,4 +9,6 @@ You don't need a computer science background to participate - just a little prog
 
 The repo is structured by a year folder and then n_input.txt for the input text files and n_solution.[ps1|py] for the solutions.
 
+Some took longer than others and differ in their level of difficulty. Some of the code isn't as pretty as I'd like to make them, but I don't have much time to spend on them, so if they work, it's all good. :)
+
 Enjoy. :)
